@@ -1,6 +1,7 @@
 {
 	"installed_packages":
 	[
+		"Inc-Dec-Value",
 		"Nodejs",
 		"Package Control",
 		"SASS",

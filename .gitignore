@@ -1,4 +1,4 @@
 .DS_Store
-Settings/Auto Save Session.sublime_session
+*.sublime_session
 Backup/*
 *.tm*.cache
