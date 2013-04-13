@@ -1,9 +1,12 @@
 {
+	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
+		"Handlebars",
 		"Inc-Dec-Value",
 		"Nodejs",
 		"Package Control",
+		"PHP-Twig",
 		"SASS",
 		"Sass",
 		"SCSS"
