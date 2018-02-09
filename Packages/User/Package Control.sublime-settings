@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"Cobalt2 Flat Theme",
+		"ESLint",
+		"Package Control",
+		"Solarized Color Scheme",
+		"SublimeLinter",
+		"SublimeLinter-contrib-stylelint",
+		"SublimeLinter-eslint",
+		"Syntax Highlighting for PostCSS",
+		"Theme - Cobalt2"
+	]
+}

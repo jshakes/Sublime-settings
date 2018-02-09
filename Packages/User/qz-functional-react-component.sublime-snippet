@@ -1,0 +1,33 @@
+<snippet>
+	<content><![CDATA[
+import React from 'react';
+import PropTypes from 'prop-types';
+import withStyles from 'isomorphic-style-loader/lib/withStyles';
+import bindStyles from 'helpers/styles';
+import styles from './$1.css';
+
+const cx = bindStyles(styles);
+
+const $1 = props => {
+
+	const {
+	} = props;
+
+  return (
+    <div className={cx('$1')}>
+
+    </div>
+  );
+};
+
+$1.propTypes = {
+};
+
+export default withStyles(styles)($1);
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>qzfrc</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

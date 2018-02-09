@@ -1,0 +1,26 @@
+{
+	"auto_indent": true,
+	"color_scheme": "Packages/Solarized Color Scheme/Solarized (dark).tmTheme",
+	"drag_text": false,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		".tmp",
+		".sass-cache"
+	],
+	"font_size": 19.0,
+	"ignored_packages":
+	[
+		"Colorcoder",
+		"LESS",
+		"Vintage"
+	],
+	"original_color_scheme": "Packages/User/Color Highlighter/themes/Solarized (dark) (Colorcoded).tmTheme",
+	"tab_size": 2,
+	"theme": "Cobalt2.sublime-theme",
+	"trim_automatic_white_space": true,
+	"word_wrap": false
+}
